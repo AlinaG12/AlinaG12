@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://img.icons8.com/?size=100&id=1cYYNKQv4EDv&format=png&color=000000" width="300"/>
+  <img src="" width="300"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/Loony221">
